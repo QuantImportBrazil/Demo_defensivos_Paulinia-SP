@@ -12,7 +12,7 @@
 > 
 > O objetivo aqui é demonstrar o formato geral do gráfico.
 > 
-> A exatidão das previsões pode ser aumentada através do processo de [ajuste fino (ou otimização de hiperparâmetros)](https://en.wikipedia.org/wiki/Hyperparameter_optimization), que é realizado sob demanda.
+> A exatidão das previsões pode ser aumentada através do processo de ajuste fino [(otimização de hiperparâmetros)](https://en.wikipedia.org/wiki/Hyperparameter_optimization), que é realizado sob demanda.
 > 
 
 ---
