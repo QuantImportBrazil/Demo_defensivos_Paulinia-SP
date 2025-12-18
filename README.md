@@ -19,7 +19,8 @@
 ---  
   
   
-![Gráfico de Previsão](Paulínia_Insecticidas,%20rodenticidas,%20fungicidas,%20herbicidas....png) 
+![Gráfico de Previsão](Paulínia_Insecticidas,%20rodenticidas,%20fungicidas,%20herbicidas....png)
+<sub>Previsto* - Tamanho do X corresponde à probabilidade da importação ocorrer</sub>
   
 ---
 
